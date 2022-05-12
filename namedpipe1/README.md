@@ -80,6 +80,7 @@ test open readwrite for read
 2022/05/12 13:53:45 r-- read from namedpipe: test write
 ```
 
-## Code Reference
+## Reference
 - https://gist.github.com/matishsiao/fc1601a3a3f37c70d91ab3b1ed8485c4
+- https://stackoverflow.com/questions/15055065/o-rdwr-on-named-pipes-with-poll/17384067#17384067
 
