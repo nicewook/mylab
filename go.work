@@ -1,3 +1,6 @@
 go 1.18
 
-use ./namedpipe1
+use (
+	./namedpipe1
+	./namedpipe2
+)
